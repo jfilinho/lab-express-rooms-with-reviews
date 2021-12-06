@@ -3,7 +3,7 @@
 # Rooms App with Reviews - final practice for project #3
 
 ##Backend Repository here:
-[Repositorio](https://github.com/jfilinho/lab-express-rooms-with-reviews/edit/master)
+[Repositorio](https://github.com/jfilinho/lab-express-rooms-with-reviews)
 
 
 
