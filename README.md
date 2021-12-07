@@ -2,13 +2,12 @@
 
 # Rooms App with Reviews - final practice for project #3
 
-##Backend Repository here:
+#Backend Repository here:
 [Repositorio](https://github.com/jfilinho/lab-express-rooms-with-reviews)
 
 
 
-Link to your frontend repository here:
-##Repositorio frontend:
+#Repositorio frontend:
 [Repositorio](https://github.com/jfilinho/rooms-app-with-reviews-backend/tree/main/rooms-reviews-frontend)
 )
 
