@@ -9,7 +9,7 @@
 
 Link to your frontend repository here:
 ##Repositorio frontend:
-[Repositorio](https://github.com/jfilinho/lab-express-rooms-with-reviews)
+[Repositorio](https://github.com/jfilinho/rooms-app-with-reviews-backend/tree/main/rooms-reviews-frontend)
 )
 
 
